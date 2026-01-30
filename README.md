@@ -34,13 +34,13 @@ Instalação
 git clone <url-do-repositorio>
 cd Scrap-Folha-SP
 
-2. Instalar o Poetry
+2. Instalar o Poetry:
 pip install poetry
 
-3. Instalar as dependências
+3. Instalar as dependências:
 poetry install
 
-Execução
+Execução:
 poetry run python src/main.py
 
 Após iniciar, o sistema solicitará a entrada do tema de busca pelo terminal. O usuário digita o assunto desejado e o scraping é executado automaticamente.
